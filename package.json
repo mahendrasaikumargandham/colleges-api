@@ -4,7 +4,7 @@
   "description": "API to get all the colleges in India",
   "main": "index.js",
   "dependencies": {
-    "csv": "^1.1.0",
+    "csv": "^5.3.2",
     "express": "^4.14.0",
     "nodecsv": "^1.1.0"
   },
