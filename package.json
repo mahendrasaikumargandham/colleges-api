@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SriGuruCoimbatore/colleges-api.git"
+    "url": "git+https://github.com/prasadbobby/colleges-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SriGuruCoimbatore/colleges-api/issues"
+    "url": "https://github.com/prasadbobby/colleges-api/issues"
   },
-  "homepage": "https://github.com/SriGuruCoimbatore/colleges-api#readme"
+  "homepage": "https://github.com/prasadbobby/colleges-api#readme"
 }
